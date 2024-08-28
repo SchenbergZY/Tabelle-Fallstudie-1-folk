@@ -28,7 +28,7 @@ sphinx:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/quadriga-dk/Tabelle-Fallstudie-1  # Online location of your book
+  url: https://github.com/SchenbergZY/Tabelle-Fallstudie-1-folk  # Online location of your book
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
@@ -43,4 +43,31 @@ html:
   use_issues_button: true
   use_repository_button: true
 
+# Parse and render settings
+
+# parse:
+
+#  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+
+#    # - amsmath
+#    - colon_fence
+#    # - deflist
+#    - dollarmath
+#    # - html_admonition
+#    - html_image
+#    - linkify
+#    # - replacements
+#    # - smartquotes
+#    - substitution
+#    - tasklist
+
+# Files to exclude from the build
+
+exclude_patterns: [nlp-enrichment/enrichment_tweaked.ipynb, data-input/aux/*, word_search/parse_conll_make_search.ipynb, README.md, Markdown/R_Markdown.md, Documentation.md]
+
+# Enable interactive widgets
+
+jupyter:
+widgets:
+  enable: true
 
