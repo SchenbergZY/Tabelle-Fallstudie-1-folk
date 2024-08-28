@@ -33,8 +33,8 @@ parts:
     chapters:
     - file: Markdown/19_Datenmanipulation
     - file: Markdown/20_Datenstruktur
-    - file: Markdown/21_Einstieg_R
-    - file: Markdown/22_Übung_Reproduzierbarkeit
+    - file: notebook/R_Lerneinheit # Markdown/R_Markdown - file: Markdown/21_Einstieg_R
+    - file: notebook/R_Übung_Reprodu # notebook/R_Übung_Reprodu # Markdown/R_Übung_Reprodu - file: Markdown/22_Übung_Reproduzierbarkeit
     - file: Markdown/23_Übung_Zeitreihe
     - file: Markdown/24_Reflexion_Datenmanipulation
   - caption: 6. Zusammenfassung
