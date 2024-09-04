@@ -59,9 +59,8 @@
       - file: Markdown/Datenmanipulation
       - file: Markdown/Datenstruktur
       - file: notebook/R_Lerneinheit # Markdown/R_Markdown, replacement here
-
-
-## 5. Origin CSV file prepared
+      - file: notebook/R_Übung_Reprodu # Markdown/22_Übung_Reproduzierbarkeit, replacement here
+      - file: notebook/R_Übung_Zeitreihe # Markdown/23_Übung_Zeitreihe, replacement here
 
 # For other details, please read [Documentation](Documentation.md)
 
