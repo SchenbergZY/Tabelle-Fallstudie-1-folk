@@ -62,6 +62,8 @@ html:
 
 sphinx:
   # extra_extensions: no runestone too hard to use
+  extra_extensions:
+    - sphinx_apa_references
   #  # loads *all* Runestone components, including dragndrop
   #  - runestone
   config:
