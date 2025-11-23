@@ -3,3 +3,4 @@ jupyterquiz==2.8.*
 # runestone==7.9.8
 matplotlib
 numpy
+sphinx-apa-references
