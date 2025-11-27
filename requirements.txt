@@ -1,6 +1,14 @@
+teachbooks == 0.2.3
+sphinx-inline-tabs
+
+git+https://github.com/TeachBooks/TeachBooks-Favourites
+
+teachbooks-sphinx-grasple
+
+sphinx-apa-references
+
 jupyter-book==1.0.4
 jupyterquiz==2.8.*
 # runestone==7.9.8
 matplotlib
 numpy
-sphinx-apa-references
