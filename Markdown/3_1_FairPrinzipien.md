@@ -1,3 +1,15 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
 # FAIR-Prinzipien
 
 In Bezug auf die Nachnutzung von (Forschungs-)Daten wollen wir Sie hier mit den FAIR-Prinzipien vertraut machen. Diese stellen Grundsätze des Datenmanagements dar, die unter anderem den Austausch und die weitere Nutzung von Daten vereinfachen. FAIR ist das Akronym von **F**indable, **A**ccessible, **I**nteroperable und **R**eusable - also auffindbar, zugänglich, interoperabel (bzw. kompatibel) und wiederverwendbar. Diese 2016 veröffentlichten Prinzipien, die seit 2019 auch in den "Leitlinien zur Sicherung guter wissenschaftlicher Praxis" der Deutschen Forschungsgemeinschaft verankert sind {cite}`deutsche_forschungsgemeinschaft_guidelines_2022`, haben sich mittlerweile zu einem Standard entwickelt {cite}`spiecker_ecodm_2022`.
