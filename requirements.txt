@@ -1,5 +1,5 @@
 teachbooks == 0.2.3
-sphinx-inline-tabs
+# sphinx-inline-tabs
 
 # git+https://github.com/TeachBooks/TeachBooks-Favourites
 
