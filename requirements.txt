@@ -5,7 +5,7 @@ teachbooks == 0.2.3
 
 # teachbooks-sphinx-grasple
 
-sphinx-apa-references
+# sphinx-apa-references
 
 jupyter-book==1.0.4
 jupyterquiz==2.8.*
