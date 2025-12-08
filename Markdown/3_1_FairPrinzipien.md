@@ -43,6 +43,17 @@ Eine detaillierte Ausformulierung der Prinzipien auf Englisch findet sich auf de
 Zum Prüfen der so genannten FAIRness von Daten haben sich Checklisten etabliert. Eine von diesen stammt von Jones und Grootveld (2017), die ebenfalls bei <a href="https://zenodo.org/records/5111307" target="_blank">Zenodo</a> zugänglich ist {cite}`jones_how_2017`. Sie stellt die Basis für die Übung im nächsten Abschnitt dar.
 ```
 
+```{raw} html
+<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+<py-script>
+# Simple Python code running in the browser
+from datetime import datetime
+print("Hello from PyScript!")
+print("Current time:", datetime.now())
+</py-script>
+```
+
 **Literatur**
 
 ```{bibliography}
