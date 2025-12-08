@@ -56,14 +56,23 @@ Zum Prüfen der so genannten FAIRness von Daten haben sich Checklisten etabliert
 ```
 
 ```{raw} html
-<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PyScript Offline</title>
+  <script type="module" src="https://pyscript.net/releases/2025.11.2/core.js"></script>
+  <link rel="stylesheet" href="https://pyscript.net/releases/2025.11.2/core.css">
+</head>
+<body>
+  <script type="mpy">
+    from pyscript import document
 
-<py-script>
-# Simple Python code running in the browser
-from datetime import datetime
-print("Hello from PyScript!")
-print("Current time:", datetime.now())
-</py-script>
+    document.body.append("Hello from PyScript")
+  </script>
+</body>
+</html>
 ```
 
 **Literatur**
