@@ -1,9 +1,9 @@
-teachbooks == 0.2.3
-sphinx-inline-tabs
+# teachbooks == 0.2.3
+# sphinx-inline-tabs
 
-git+https://github.com/TeachBooks/TeachBooks-Favourites
+# git+https://github.com/TeachBooks/TeachBooks-Favourites
 
-teachbooks-sphinx-grasple
+# teachbooks-sphinx-grasple
 
 sphinx-apa-references
 
